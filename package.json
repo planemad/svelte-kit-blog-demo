@@ -9,7 +9,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-node": "next",
-		"@sveltejs/adapter-static": "^1.0.0-next.0",
+		"@sveltejs/adapter-static": "^1.0.0-next.19",
 		"@sveltejs/kit": "next",
 		"dayjs": "^1.10.4",
 		"js-yaml": "^3.14.1",
